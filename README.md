@@ -10,7 +10,7 @@
 
 > Texto citado
 
-'''print("Hola mundo");'''
+`print("Hola mundo");`
 
 
 [Google](http://www.google.com)
