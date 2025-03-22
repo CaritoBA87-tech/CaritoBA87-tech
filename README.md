@@ -5,8 +5,8 @@
 * 125
 * 5454
 
-* 1. gdfgdfg
-  2. bdfgdfg
+1. gdfgdfg
+2. bdfgdfg
 
 <!--
 **CaritoBA87-tech/CaritoBA87-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
