@@ -1,5 +1,5 @@
 # Hi there, I'm Carito 👋
-## Hi there, I'm Carito 👋
+## Hi there, I'm _Carito_ 👋
 ### Hi there, I'm *Carito* 👋
 
 <!--
